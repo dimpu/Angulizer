@@ -2,6 +2,10 @@
 logs
 *.log
 
+#bower
+/js/vendor/
+
+
 # Runtime data
 pids
 *.pid

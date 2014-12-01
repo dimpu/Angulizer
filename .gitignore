@@ -3,7 +3,7 @@ logs
 *.log
 
 #bower
-/js/vendor/
+/client/js/vendor
 
 
 # Runtime data
